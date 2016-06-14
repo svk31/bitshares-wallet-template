@@ -7,7 +7,7 @@ This wallet makes use of the AccountLogin class from graphenejs-lib to provide a
 
 This means you can login using only your account name and password, and no private information is stored in the browser nor sent to the API server.
 
-The wallet is set up to use the Bitshares testnet. Compiled html + js is available in the `dist` folder, to launch simply doubleclick the index.html file.
+The wallet is set up to use the Bitshares testnet. It can be tried out here: http://svk31.github.io/bitshares-wallet-template
 
 The following account and password can be used to try it out:
 
